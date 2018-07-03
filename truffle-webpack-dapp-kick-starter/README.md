@@ -15,7 +15,8 @@ This project Includes contracts, migrations, tests, user interface and webpack b
     ```
 
 3. Run the blockchain network using ganache-cli
-    ```$ ganache-cli
+    ```
+    $ ganache-cli
     ```
 
 4. Add Demo smart contract inside contracts folder. Compile and migrate the smart contracts.
